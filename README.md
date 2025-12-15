@@ -1,14 +1,3 @@
-heyo!! i’m casty 🧃🐟💥
-aka silly, toaster, or idk call me "that one furry down the road"
+heyo!! i’m kaemori. i do things, sometimes! mainly proof of concepts. (one of) the most unserious dev ever!!
 
-🐾 furry (and am proud), polysexual chaos blob (any pronouns)
-🐍 python gremlin (backend stuff mostly)
-🧨 known for horrible ideas. if my code works, it’s a cry for help
-🦈 certified blahaj enjoyer™ — life is blahaj. blahaj is life.
-
-i speak fluent 🦈🦈🦈🦈🦈🦈🦈🦈🦈🦈🦈🦈🦈🦈🦈🦈🦈🦈
-
-currently living in singapore, i use arch btw
-
-feel free to poke around my repos, steal my code (pls don't cry), or drop me a meow if u wanna :3
-
+very fluffy developer who writes spaghetti code. hit me up and i may choose to respond whenever i check my github ig
