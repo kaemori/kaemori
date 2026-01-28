@@ -2,4 +2,4 @@ heyo!! i’m kaemori. i do things, sometimes! mainly proof of concepts. (one of)
 
 very fluffy developer who writes spaghetti code. sometimes my code fights back smh
 
-loud and proud team YAGNI and team One File™, warned you about starchy code! 
+loud and proud team YAGNI (& Ain't Broke? Don't Fix It) and team One File™, warned you about starchy code! 
