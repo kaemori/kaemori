@@ -10,4 +10,6 @@ loud and proud team YAGNI (& IIABDFI) and team One File™, warned you about sta
 
 want something like this? check out kaemori/slacktivity!!
 
+critter of many (many!) names
+
 waste of oxygen @ hackclub // programmer @ icarus alliance
