@@ -8,4 +8,4 @@ loud and proud team YAGNI (& IIABDFI) and team One File™, warned you about sta
 
 critter of many (many!) names
 
- rogrammer @ icarus alliance
+programmer @ icarus alliance
